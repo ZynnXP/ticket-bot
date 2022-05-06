@@ -1,12 +1,12 @@
 {
   "clientId": "bot client id",
-  "parentOpened": "category id here",
-  "parentTransactions": "category id here",
-  "parentsupport": "category id here",
-  "parentothers": "category id here",
+  "parentOpened": "971458867466735627",
+  "parentTransactions": "971458867466735627",
+  "parentsupport": "971458867466735627",
+  "parentothers": "971458867466735627",
   "roleSupport": "role id here",
   "logsTicket": "channel id here",
-  "ticketChannel": "channel id here",
+  "ticketChannel": "971459115203326013e",
 
-  "footerText": "Odd Coder"
+  "footerText": "Zynn Basement!"
 }
